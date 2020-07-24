@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies&display=swap");
+.about-grid {
+    display: grid;
+    grid-row-gap: 60px;
+    padding: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(650px, 1fr));
+    margin: 100px auto;
+    background-color: #ff80;
+}
+
+.grid-item2 {
+    margin-top: 40px;
+    margin-right: 70px;
+}
+
+.profile-pic {
+    width: 50%;
+    height: auto;
+    margin-left: 100px;
+    /* object-fit: cover; */
+}
+
+.Navbar {
+    background-color: black;
+}

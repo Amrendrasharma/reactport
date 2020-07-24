@@ -1,0 +1,49 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    padding: 100px;
+    margin: 100px auto;
+    margin-left: 150px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
+    padding: 50px;
+    margin: 50px;
+    margin-left: 600px;
+}
+
+.grid-item3 {
+    margin-top: 100px;
+}
+
+.skill-content {
+    background-color: #e4f6f6;
+    max-width: 100%;
+    margin-top: -8rem;
+    padding: 60px;
+}
+
+.new-img {
+    width: 400px;
+    height: 150px;
+    margin-left: 100px;
+}
+
+.devops-img {
+    width: 50%;
+    height: auto;
+    margin-left: 100px;
+}
+
+.django-img {
+    width: 50%;
+    height: auto;
+}
+
+.full-stack {
+    width: 50%;
+    height: 50%;
+    margin-left: 100px;
+}
