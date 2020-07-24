@@ -69,7 +69,7 @@ class Home extends Component {
             marginTop: "40px",
           }}
         >
-          Design By Amrendra Sharma
+          Design By Krish kumar
         </footer>
       </div>
     );
