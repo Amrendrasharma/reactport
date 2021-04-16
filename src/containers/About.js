@@ -20,7 +20,7 @@ class About extends Component {
                 <a href="mailto:amrendrasharmasrh@gmail.com">Hire Me!</a>
               </li>
               <li>
-                <Link to="/projects">Projects</Link>
+                <a href="digitechbits.com">Projects</a>
               </li>
             </ul>
           </nav>
